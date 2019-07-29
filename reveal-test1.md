@@ -57,7 +57,7 @@ WordPress est un outil incontournable
 #### wordpress.org
 
 * Pour avoir son site... Il faut payer un pack 
-* hébergement + nom de domaine
+  * hébergement + nom de domaine
 * Avantages
   * installation personnalisée possible
   * liberté sur les thèmes et les extensions
@@ -72,7 +72,7 @@ WordPress est un outil incontournable
 * https://ionos.fr
 * Formule à 1 euro/mois la première année
 * installation rapide 
-  (avec les applications proposées dans Ionos)
+  * (avec les applications proposées dans Ionos)
 
 ---
 
@@ -168,8 +168,8 @@ WordPress est un outil incontournable
 
 ---
 
-Pour aller plus loin...
-HTML, CSS, JS, PHP, SQL
+* Pour aller plus loin...
+* HTML, CSS, JS, PHP, SQL
 
 ---
 
@@ -218,7 +218,11 @@ SELECT * FROM User;
 
 ```
 
+---
 
+Merci !
+
+* des questions ?
 
 
 
