@@ -215,17 +215,16 @@ echo date("H:i:s");
 #### code SQL
 
 ```sql
-
 SELECT * FROM User;
-
 ```
 
 ---
 
-Merci !
+#### Merci pour votre attention !
 
 * des questions ?
 
+* https://www.linkedin.com/in/applh
 
 
 
