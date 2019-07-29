@@ -39,9 +39,6 @@ Plus de 34% des sites utilisent WP
 
 * Pour avoir son site...
 * Il faut payer un pack hébergement + nom de domaine
-* https://ionos.fr
-* 1 euro/mois la première année
-* installation rapide avec les applicactions proposées dans Ionos
 
 * avantages
 * installation personnalisée possible
@@ -51,6 +48,49 @@ Plus de 34% des sites utilisent WP
 * on est responsable des mises à jour du site
 
 ---
+
+### Ionos.fr
+
+* Hébergement conseillé
+* https://ionos.fr
+* Formule à 1 euro/mois la première année
+* installation rapide avec les applications proposées dans Ionos
+
+
+---
+
+### Thème Page Builder
+
+---
+
+### Extensions
+
+---
+
+### Extension: Caldera Forms
+
+---
+
+### Extension: Advanced Custom Fields (ACF)
+
+---
+
+### Extension: Backup de la base de données SQL
+
+* Updraft Plus
+
+---
+
+### Extension: sécurité
+
+* Sucuri
+* Wordfence
+
+
+
+
+
+
 
 
 
