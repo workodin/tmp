@@ -1,5 +1,7 @@
 ---
 
+note:
+
 <!-- .slide: data-background="#ffffff" data-transition="zoom" -->
 
 ---
@@ -49,8 +51,13 @@ WordPress est un outil incontournable
 * code Open-Source et Licence GPLv3
 * https://wordpress.org
 
-* Pour avoir son site...
-* Il faut payer un pack hébergement + nom de domaine
+---
+
+#### wordpress.org
+
+Pour avoir son site... Il faut payer un pack 
+* hébergement 
+* + nom de domaine
 
 * avantages
   * installation personnalisée possible
