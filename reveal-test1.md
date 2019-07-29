@@ -1,6 +1,6 @@
 ## WordPress
 
-![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-alternative.png)
+![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-standard.png)
 
 note:
 
