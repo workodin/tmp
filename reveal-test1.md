@@ -41,11 +41,11 @@ Plus de 34% des sites utilisent WP
 * Il faut payer un pack hébergement + nom de domaine
 
 * avantages
-* installation personnalisée possible
-* liberté sur les thèmes et les extensions
+  * installation personnalisée possible
+  * liberté sur les thèmes et les extensions
 
 * inconvénients
-* on est responsable des mises à jour du site
+  * on est responsable des mises à jour du site
 
 ---
 
@@ -56,22 +56,55 @@ Plus de 34% des sites utilisent WP
 * Formule à 1 euro/mois la première année
 * installation rapide avec les applications proposées dans Ionos
 
+---
+
+#### Choisir un thème
+
+* Le choix du thème est très imporant pour le projet web
+* gratuits et/ou payants
 
 ---
 
-#### Thème Page Builder
+#### Choisir des extensions
+
+* Pour compléter les fonctionnalités manquantes
+* il faudra ajouter des extensions (plugins)
+* gratuits et/ou payants
+
+---
+
+#### Thème avec Gutenberg
+
+* Gutenberg est le Page Builder de WP
+* Contesté car encore en développement
+
+---
+
+#### Thème avec Page Builder
+
+Avant Gutenberg, des Pages Builders existaient depuis des années
+* Elementor
+* Divi
+* ...
 
 ---
 
 #### Extensions
 
+* ne pas abuser des extensions (plugins)
+* conseil: -10 extensions
+
 ---
 
 #### Extension: Caldera Forms
 
+* pour facilement créer des formulaires
+
 ---
 
 #### Extension: Advanced Custom Fields (ACF)
+
+* pour étendre l'utilisation de son site WP
 
 ---
 
@@ -85,6 +118,14 @@ Plus de 34% des sites utilisent WP
 
 * Sucuri
 * Wordfence
+
+---
+
+#### Extension: e-commerce
+
+* Woocommerce
+* (...racheté par Automattic)
+
 
 ---
 
@@ -122,6 +163,8 @@ var texte = document.querySelector('.texte');
 echo date("H:i:s"); 
 ?>
 ```
+
+---
 
 #### code SQL
 
