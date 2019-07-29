@@ -76,9 +76,23 @@ WordPress est un outil incontournable
 
 ---
 
+#### Pemiers pas avec WP
+
+* créer un menu 
+  * et en même temps créer des pages 
+  * (...vides pour le moment)
+* pages:
+  * accueil
+  * news
+  * contact
+  * ...
+  
+---
+
 #### Choisir un thème
 
-* Le choix du thème est très important pour le projet web
+* Le choix du thème est très important 
+  pour la suite du projet web
 * gratuits et/ou payants
 
 ---
