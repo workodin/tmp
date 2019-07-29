@@ -1,5 +1,7 @@
 ---
 
+## WordPress
+
 note:
 
 <!-- .slide: data-background="#ffffff" data-transition="zoom" -->
@@ -56,12 +58,12 @@ WordPress est un outil incontournable
 
 #### wordpress.org
 
-Pour avoir son site... Il faut payer un pack 
+* Pour avoir son site... Il faut payer un pack 
 * hébergement + nom de domaine
-Avantages
+* Avantages
   * installation personnalisée possible
   * liberté sur les thèmes et les extensions
-Inconvénients
+* Inconvénients
   * on est responsable des mises à jour du site
 
 ---
@@ -100,11 +102,11 @@ Inconvénients
 
 #### Thème avec Page Builder
 
-Avant Gutenberg
-Des Pages Builders existaient depuis des années
-* Elementor
-* Divi
-* ...
+* Avant Gutenberg
+* Des Pages Builders existaient depuis des années
+  * Elementor
+  * Divi
+  * ...
 
 ---
 
@@ -118,31 +120,37 @@ Des Pages Builders existaient depuis des années
 #### Extension: Caldera Forms
 
 * pour facilement créer des formulaires
+* https://fr.wordpress.org/plugins/caldera-forms/
 
 ---
 
 #### Extension: Advanced Custom Fields (ACF)
 
 * pour étendre l'utilisation de son site WP
+* https://fr.wordpress.org/plugins/advanced-custom-fields/
 
 ---
 
 #### Extension: Backup de la base de données SQL
 
 * Updraft Plus
+* https://fr.wordpress.org/plugins/updraftplus/
 
 ---
 
 #### Extension: sécurité
 
 * Sucuri
+* https://fr.wordpress.org/plugins/sucuri-scanner/
 * Wordfence
+* https://fr.wordpress.org/plugins/wordfence/
 
 ---
 
 #### Extension: e-commerce
 
 * Woocommerce
+* https://fr.wordpress.org/plugins/woocommerce/
 * (...racheté par Automattic)
 
 
