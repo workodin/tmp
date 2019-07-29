@@ -1,34 +1,56 @@
 ## WordPress
 
-### CMS: Content Management System
+#### CMS: Content Management System
 
-#### plus de 34% des sites utilisent WP
+Plus de 34% des sites utilisent WP
 
 [source: w3techs.com](https://w3techs.com/technologies/overview/content_management/all)
 
 ---
 
-## wordpress.org vs wordpress.com
+### wordpress.org vs wordpress.com
 
-Automattic est l'entreprise qui gère le développement de WordPress
-* (dirigé par Matt Mullenweg, créateur de WordPress)
+* code Open-Source et Licence GPLv3
+* https://wordpress.org
+
 * Automattic utilise WP pour sa plateforme de sites 
 * https://wordpress.com
+* Automattic est l'entreprise qui gère le développement de WordPress
+* (dirigé par Matt Mullenweg, créateur de WordPress)
+
+---
+
+### wordpress.com
+
+* https://wordpress.com
 * gratuit mais très limité
-* payant mais vite plus cher que prendre son propre hébergement
+* options payantes mais vite plus cher que prendre son propre hébergement
 
-* https://wordpress.org => code Open-Source et Licence GPLv3
-
----
-
-## slide 3
-
-
-
+* avantages: 
+* tester rapidement WordPress
+* créer un blog/site simple
 
 ---
 
-## slide 4
+### wordpress.org
+
+* code Open-Source et Licence GPLv3
+* https://wordpress.org
+
+* Pour avoir son site...
+* Il faut payer un pack hébergement + nom de domaine
+* https://ionos.fr
+* 1 euro/mois la première année
+* installation rapide avec les applicactions proposées dans Ionos
+
+* avantages
+* installation personnalisée possible
+* liberté sur les thèmes et les extensions
+
+* inconvénients
+* on est responsable des mises à jour du site
+
+---
 
 
 
