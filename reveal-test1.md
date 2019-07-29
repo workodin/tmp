@@ -152,8 +152,24 @@ WordPress est un outil incontournable
 
 ---
 
+#### Sécurité
+
+* toujours mettre à jour 
+  * WordPress 
+  * et le thème actif
+  * et les extensions activés
+
+(désintaller les thèmes et extensions inutiles)
+
+---
+
 #### Extension: sécurité
 
+* Un site WP est très attaqué...
+* Pour se protéger
+  * avoir un mot de passe complexe 
+  * (généré aléatoirement)
+  
 * Sucuri
 * https://fr.wordpress.org/plugins/sucuri-scanner/
 * Wordfence
