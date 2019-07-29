@@ -1,8 +1,10 @@
 ## WordPress
 
+![WordPress Logo](https://s.w.org/style/images/about/WordPress-logotype-alternative.png)
+
 note:
 
-<!-- .slide: data-background="#ffffff" data-transition="zoom" -->
+<!-- .slide: data-transition="zoom" -->
 
 ---
 
