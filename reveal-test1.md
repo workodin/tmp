@@ -38,7 +38,8 @@ WordPress est un outil incontournable
 
 * https://wordpress.com
 * gratuit mais très limité
-* options payantes mais vite plus cher que prendre son propre hébergement
+* options payantes 
+  (mais vite plus cher que prendre son propre hébergement)
 
 * avantages: 
 * tester rapidement WordPress
@@ -56,14 +57,11 @@ WordPress est un outil incontournable
 #### wordpress.org
 
 Pour avoir son site... Il faut payer un pack 
-* hébergement 
-* + nom de domaine
-
-* avantages
+* hébergement + nom de domaine
+Avantages
   * installation personnalisée possible
   * liberté sur les thèmes et les extensions
-
-* inconvénients
+Inconvénients
   * on est responsable des mises à jour du site
 
 ---
@@ -73,13 +71,14 @@ Pour avoir son site... Il faut payer un pack
 * Hébergement conseillé
 * https://ionos.fr
 * Formule à 1 euro/mois la première année
-* installation rapide avec les applications proposées dans Ionos
+* installation rapide 
+  (avec les applications proposées dans Ionos)
 
 ---
 
 #### Choisir un thème
 
-* Le choix du thème est très imporant pour le projet web
+* Le choix du thème est très important pour le projet web
 * gratuits et/ou payants
 
 ---
@@ -101,7 +100,8 @@ Pour avoir son site... Il faut payer un pack
 
 #### Thème avec Page Builder
 
-Avant Gutenberg, des Pages Builders existaient depuis des années
+Avant Gutenberg
+Des Pages Builders existaient depuis des années
 * Elementor
 * Divi
 * ...
@@ -145,6 +145,11 @@ Avant Gutenberg, des Pages Builders existaient depuis des années
 * Woocommerce
 * (...racheté par Automattic)
 
+
+---
+
+Pour aller plus loin...
+HTML, CSS, JS, PHP, SQL
 
 ---
 
