@@ -86,7 +86,8 @@ WordPress est un outil incontournable
   * news
   * contact
   * ...
-  
+
+
 ---
 
 #### Choisir un thème
@@ -94,6 +95,7 @@ WordPress est un outil incontournable
 * Le choix du thème est très important 
   pour la suite du projet web
 * gratuits et/ou payants
+
 
 ---
 
