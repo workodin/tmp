@@ -4,6 +4,7 @@
 
 ---
 
+
 ## WordPress
 
 #### CMS: Content Management System
@@ -14,6 +15,8 @@ Plus de 34% des sites utilisent WP
 
 note:
 WordPress est un outil incontournable
+
+<!-- .slide: data-transition="zoom" -->
 
 ---
 
