@@ -1,10 +1,19 @@
+---
+
+<!-- .slide: data-background="#ffffff" data-transition="zoom" -->
+
+---
+
 ## WordPress
 
 #### CMS: Content Management System
-
 Plus de 34% des sites utilisent WP
 
 [source: w3techs.com](https://w3techs.com/technologies/overview/content_management/all)
+
+
+note:
+WordPress est un outil incontournable
 
 ---
 
