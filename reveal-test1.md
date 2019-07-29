@@ -8,7 +8,7 @@ Plus de 34% des sites utilisent WP
 
 ---
 
-### wordpress.org vs wordpress.com
+#### wordpress.org vs wordpress.com
 
 * code Open-Source et Licence GPLv3
 * https://wordpress.org
@@ -20,7 +20,7 @@ Plus de 34% des sites utilisent WP
 
 ---
 
-### wordpress.com
+#### wordpress.com
 
 * https://wordpress.com
 * gratuit mais très limité
@@ -32,7 +32,7 @@ Plus de 34% des sites utilisent WP
 
 ---
 
-### wordpress.org
+#### wordpress.org
 
 * code Open-Source et Licence GPLv3
 * https://wordpress.org
@@ -49,7 +49,7 @@ Plus de 34% des sites utilisent WP
 
 ---
 
-### Ionos.fr
+#### Ionos.fr
 
 * Hébergement conseillé
 * https://ionos.fr
@@ -59,32 +59,79 @@ Plus de 34% des sites utilisent WP
 
 ---
 
-### Thème Page Builder
+#### Thème Page Builder
 
 ---
 
-### Extensions
+#### Extensions
 
 ---
 
-### Extension: Caldera Forms
+#### Extension: Caldera Forms
 
 ---
 
-### Extension: Advanced Custom Fields (ACF)
+#### Extension: Advanced Custom Fields (ACF)
 
 ---
 
-### Extension: Backup de la base de données SQL
+#### Extension: Backup de la base de données SQL
 
 * Updraft Plus
 
 ---
 
-### Extension: sécurité
+#### Extension: sécurité
 
 * Sucuri
 * Wordfence
+
+---
+
+#### code HTML
+
+```html
+<button>cliquer ici</button>
+```
+
+---
+
+#### code CSS
+
+```css
+h1 {
+  color:red;
+}
+```
+
+---
+
+#### code JS
+
+```js
+var texte = document.querySelector('.texte');
+```
+
+
+---
+
+#### code PHP
+
+```php
+<?php
+echo date("H:i:s"); 
+?>
+```
+
+#### code SQL
+
+```sql
+
+SELECT * FROM User;
+
+```
+
+
 
 
 
