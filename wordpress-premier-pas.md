@@ -70,4 +70,9 @@
 * De la 3D en JS ?
 * https://doc.babylonjs.com/examples/
 
+---
+
+## Emojis
+
+* https://getemoji.com/
 
