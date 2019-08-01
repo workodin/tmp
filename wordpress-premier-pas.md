@@ -13,7 +13,8 @@
 ## Installer le thème Divi
 
 * Installer et activer le thème Divi
-* Si nécessaire, adapter le paramétrage du serveur web
+* Si nécessaire, pour uploader des fichiers volumineux 
+  * adapter le paramétrage du serveur web
   * trouver le fichier php.ini
   * changer les 2 lignes
 
