@@ -50,3 +50,5 @@
 
 * Divi propose des dizaines de templates près à l'emploi
 * https://www.elegantthemes.com/layouts/
+* (Pour les utiliser dans votre site, il faut une clé API)
+
