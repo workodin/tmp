@@ -63,7 +63,9 @@
 
 ## Divers...
 
-* Des jeux en JS ?
+* Des animations en 2D ?
+* https://animejs.com/
+* Des jeux 2D en JS ?
 * https://phaser.io/examples
 * De la 3D en JS ?
 * https://doc.babylonjs.com/examples/
