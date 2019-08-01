@@ -1,9 +1,16 @@
+
+## WordPress (premiers pas)
+
+---
+
 ## Créer l'arborescence du site
 
 * Créer un menu principal
 * Créer les pages (vides) avec le menu pour pouvoir naviguer sur le site
 
+
 --- 
+
 
 ## Installer le thème Divi
 
