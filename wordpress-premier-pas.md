@@ -56,5 +56,9 @@
 
 * Documentation officielle
 * https://www.elegantthemes.com/documentation/divi/
-* Chaine You Tube 
+* Chaine YouTube 
 * https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA
+
+---
+
+
