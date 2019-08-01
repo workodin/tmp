@@ -42,9 +42,7 @@
 
 * Trouver comment ajouter un formulaire de contact avec Divi
 
-
 ---
-
 
 ## Manque d'inspiration ?
 
@@ -52,3 +50,11 @@
 * https://www.elegantthemes.com/layouts/
 * (Pour les utiliser dans votre site, il faut une clé API)
 
+---
+
+## Documentation sur Divi
+
+* Documentation officielle
+* https://www.elegantthemes.com/documentation/divi/
+* Chaine You Tube 
+* https://www.youtube.com/channel/UCuasRuWliU48RwnKXf9GesA
