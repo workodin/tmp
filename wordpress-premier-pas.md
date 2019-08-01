@@ -40,4 +40,12 @@
 ## Page de contact
 
 * Trouver comment ajouter un formulaire de contact avec Divi
-  
+
+
+---
+
+
+## Manque d'inspiration ?
+
+* Divi propose des dizaines de templates près à l'emploi
+* https://www.elegantthemes.com/layouts/
