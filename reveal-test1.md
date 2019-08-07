@@ -20,7 +20,7 @@ Plus de 34% des sites utilisent WP
 note:
 WordPress est un outil incontournable
 
-<!-- .slide: data-transition="zoom" data-background-position="10% 10%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
+<!-- .slide: data-transition="zoom" data-background-position="5% 5%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
 
 ----
 
@@ -28,7 +28,7 @@ WordPress est un outil incontournable
 
 * https://www.openhub.net/p/wordpress
 
-<!-- .slide: data-transition="zoom" data-background-position="10% 10%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
+<!-- .slide: data-transition="zoom" data-background-position="5% 5%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
 
 ---
 
@@ -42,7 +42,7 @@ WordPress est un outil incontournable
 * Automattic est l'entreprise qui gère le développement de WordPress
 * (dirigé par Matt Mullenweg, créateur de WordPress)
 
-<!-- .slide: data-transition="zoom" data-background-position="10% 10%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
+<!-- .slide: data-transition="zoom" data-background-position="5% 5%" data-background-size="160px" data-background-image="https://s.w.org/style/images/about/WordPress-logotype-standard.png" -->
 
 ---
 
