@@ -22,6 +22,12 @@ WordPress est un outil incontournable
 
 <!-- .slide: data-transition="zoom" -->
 
+----
+
+### Stats sur WP
+
+* https://www.openhub.net/p/wordpress
+
 ---
 
 #### wordpress.org vs wordpress.com
